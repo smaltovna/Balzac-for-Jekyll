@@ -8,6 +8,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
+[Profile Image](/images/profile.png)
 
 ### About me
 
