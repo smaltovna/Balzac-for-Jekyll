@@ -1,21 +1,17 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            marekmansell.sk
+tagline:          Marek Mansell
+description:      Personal Website
+canonical: http://marekmansell.sk
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Marek Mansell
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
-  # Plug in your disqus shortname!
+  bio:            "Hardware Enthusiast"
+  email:          marek.mansell@gmail.com
+  twitter:        marekmansell
+  github:         marekmansell
+  location:       "Bratislava, Slovakia"
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
