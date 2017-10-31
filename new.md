@@ -8,7 +8,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Profile]({{ site.url }}/images/profile.png =500x500)
+<img src="{{ site.url }}/images/profile.png" width ="500px" height="500px")
 
 ### About me
 
