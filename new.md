@@ -8,7 +8,6 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Profile]("/images/profile.png")
 
 ### About me
 
@@ -18,7 +17,7 @@ I work as an electronics technician, designing and prototyping custom embedded p
 
 I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
 
-More info can be found on [http://linkedin.com/in/marekmansell](LinkedIn)
+More info can be found on [LinkedIn] (http://linkedin.com/in/marekmansell)
 
 
 ## My Talks and Presentations
