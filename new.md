@@ -8,7 +8,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Drawing A]({{ site.url }}/images/money.jpg)
+![Drawing A]({{ site.url }}/images/profile.png)
 
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
