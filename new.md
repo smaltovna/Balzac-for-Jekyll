@@ -8,8 +8,17 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Drawing A]({{ site.url }}/images/profile.png)
+![Profile]({{ site.url }}/images/profile.png =500x500)
 
+### About me
+
+I am an active member of the Slovak Python community since 2015. As SPy o.z. Vice-Chairman, I have co-organized PyCon SK 2016 and PyCon SK 2017.
+
+I work as an electronics technician, designing and prototyping custom embedded products - part selection, microprocessor selection, PCB design (Eagle), PCB assembly, SMD soldering, testing, case design (in CAD software), case manufacturing (3D printing and CNC milling), embedded software programming
+
+I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
+
+More info can be found on [http://linkedin.com/in/marekmansell](LinkedIn)
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
