@@ -1,7 +1,7 @@
 title:            marekmansell.sk
 tagline:          Marek Mansell
 description:      Personal Website
-canonical: http://marekmansell.sk
+canonical: http://smaltovna.github.io
 
 # Owner/author information
 owner:
@@ -26,14 +26,12 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
-  - title: New
-    url: /new
+  - title: Workshops
+    url: #
+  - title: Presentations
+    url: #
+  - title: blog
+    url: #
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
