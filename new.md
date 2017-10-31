@@ -8,7 +8,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-<img src="/images/profile.png" width ="500px" height="500px"/>
+![Profile]("/images/profile.png")
 
 ### About me
 
