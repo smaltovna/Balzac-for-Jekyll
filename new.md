@@ -8,7 +8,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Profile Image](images/profile.png){:height="500px" width="500px"}
+![Profile Image](images/profile_small.png)
 
 ### About me
 
