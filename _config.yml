@@ -10,6 +10,7 @@ owner:
   bio:            "Hardware Enthusiast"
   email:          marek.mansell@gmail.com
   twitter:        marekmansell
+  facebook:       marekmansell
   github:         marekmansell
   location:       "Bratislava, Slovakia"
 
@@ -24,7 +25,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About me
     url: /about
   - title: Workshops
     url: #

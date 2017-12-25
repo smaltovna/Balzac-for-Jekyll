@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Marek Mansell
-tags: [about, Jekyll, theme, responsive]
 image:
   feature: pyconsk2017back.jpg
 ---
