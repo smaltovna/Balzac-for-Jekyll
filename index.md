@@ -32,7 +32,7 @@ More info about hardware workshops [here](http://marekmansell.sk/workshops)
 *   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
 *   [MicoPython Editor](http://micropython.sk/editor) - An IDE for developing in MicroPython, suitable for kids (Blockly feature) and beginners
 *   Kávovar (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
-*   [StaráSmaltovňa.sk](http://starasmaltovna.sk/) (Co-founder)
+*   [StaráSmaltovňa.sk]() (Co-founder)
 
 
 
