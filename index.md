@@ -17,32 +17,11 @@ I believe Python and MicroPython should be taught at Slovak High Schools, and so
 
 More info can be found on [LinkedIn](http://linkedin.com/in/marekmansell)
 
+## Talks and Presentations
 
-## My Talks and Presentations
+## Workshops
 
-*   Bajkalská High School (1.súkromné gymnázium) - "Hardware for Teachers"
-*   IoT meetup Bratislava - "MicroPython for IoT"
-    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-iot.html)
-*   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
-    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
-*   OSS Weekend conference 2017 (SK) - "Why and how to use (micro)Python in electronics"
-*   FIIT STU - "IT possibilities in Bratislava and beyond"
-    Presentation (EN) [here](http://marekmansell.sk/presentations/slides-it-possibilities-in-ba-and-beyond.html)
-
-
-
-## Organized Workshops
-
-More info about hardware workshops [here](http://marekmansell.sk/workshop)
-
-*   Python meetup Bratislava  @Progressbar (Jan 2017)
-*   PyCon Slovakia  @FIIT STU (Mar 2017)
-*   Fablab Hardware workshop @Fablab Bratislava (Apr 2017)
-*   microPython @OSS Weekend conference (June 2017)
-*   Hardware for Teachers @GJH High School (June 2017)
-*   Children's summer camp @Comenius University (July 2017)
-*   Regular Hardware Workshops @FabLab Bratislava (since October 2017)
-
+More info about hardware workshops [here](http://marekmansell.sk/workshops)
 
 
 ## Projects
