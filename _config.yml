@@ -1,7 +1,7 @@
 title:            marekmansell.sk
 tagline:          Marek Mansell
 description:      Personal Website
-canonical: http://smaltovna.github.io
+canonical:        http://smaltovna.github.io
 
 # Owner/author information
 owner:
@@ -25,14 +25,14 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About me
-    url: /about
+  - title: CONTACT
+    url: /contact
   - title: Workshops
-    url: #
+    url: /workshops
   - title: Presentations
-    url: #
+    url: /presentations
   - title: blog
-    url: #
+    url: /blog
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
