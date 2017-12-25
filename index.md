@@ -19,6 +19,9 @@ More info can be found on [LinkedIn](http://linkedin.com/in/marekmansell)
 
 ## Talks and Presentations
 
+More info about hardware workshops [here](http://marekmansell.sk/workshops)
+
+
 ## Workshops
 
 More info about hardware workshops [here](http://marekmansell.sk/workshops)
