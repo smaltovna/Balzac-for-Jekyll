@@ -1,4 +1,6 @@
-{% include head-dark.html %}
+{% include head.html %}
+
+<section class="article pad-top">
 
 {% if page.image.feature %}
   <div class="overlay"></div>
@@ -11,8 +13,6 @@
   <div class="overlay"></div>
   <div class="featured-image" style="background-image: url({{ site.url }}/images/typewriter.jpg)"></div>
 {% endif %}
-
-<section class="article pad-top">
 
       <article class="wrap post">
         <header class="post-header">
