@@ -17,7 +17,7 @@ I believe Python and MicroPython should be taught at Slovak High Schools, and so
 
 More info can be found on [LinkedIn](http://linkedin.com/in/marekmansell)
 
-## Talks and Presentations
+### Talks and Presentations
 
 More info about hardware workshops [here](http://marekmansell.sk/workshops)
 
