@@ -22,12 +22,12 @@ More info can be found on [LinkedIn](http://linkedin.com/in/marekmansell)
 More info about hardware workshops [here](http://marekmansell.sk/workshops)
 
 
-## Workshops
+### Workshops
 
 More info about hardware workshops [here](http://marekmansell.sk/workshops)
 
 
-## Projects
+### Projects
 
 *   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
 *   [MicoPython Editor](http://micropython.sk/editor) - An IDE for developing in MicroPython, suitable for kids (Blockly feature) and beginners
@@ -36,7 +36,7 @@ More info about hardware workshops [here](http://marekmansell.sk/workshops)
 
 
 
-## Contact
+### Contact
 
 * [LinkedIn](https://www.linkedin.com/in/marekmansell)
 * [Facebook](http://facebook.com/marekmansell)
