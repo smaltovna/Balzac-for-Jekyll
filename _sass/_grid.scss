@@ -39,6 +39,7 @@ $total-width: gridsystem-width($columns);
 body {
 	width: 100%;
 	@include clearfix;
+	text-align: justify;
 }
 
 @mixin row($columns:$columns) {
