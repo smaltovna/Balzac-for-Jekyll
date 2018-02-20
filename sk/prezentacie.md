@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /sk/presentations/index.html
-title: Prednášky
+permalink: /sk/prezentacie/index.html
+title: Prezentácie
 lang: sk
 image:
   feature: pyconsk2017back.jpg
