@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: sk/presentations/index.html
+permalink: /sk/presentations/index.html
 title: Prednášky
 lang: sk
 image:

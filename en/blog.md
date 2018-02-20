@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: en/blog/index.html
+permalink: /en/blog/index.html
 title: Blog
 lang: en
 image:

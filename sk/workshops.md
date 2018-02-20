@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: sk/workshops/index.html
+permalink: /sk/workshops/index.html
 title: Workshopy
 lang: sk
 image:

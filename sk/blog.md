@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: sk/blog/index.html
+permalink: /sk/blog/index.html
 title: Blog
 lang: sk
 image:

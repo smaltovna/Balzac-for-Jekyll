@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: sk/contact/index.html
+permalink: /sk/contact/index.html
 title: Kontakt
 lang: sk
 image:
