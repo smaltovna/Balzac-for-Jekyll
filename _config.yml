@@ -24,15 +24,25 @@ opengraph:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
+links_sk:
+  - title: Kontakt
+    url: sk/contact
+  - title: Workshopy
+    url: sk/workshops
+  - title: Prezentácie
+    url: sk/presentations
+  - title: Blog
+    url: sk/blog
+
+links_en:
   - title: CONTACT
-    url: /contact
+    url: en/contact
   - title: Workshops
-    url: /workshops
+    url: en/workshops
   - title: Presentations
-    url: /presentations
+    url: en/presentations
   - title: blog
-    url: /blog
+    url: en/blog
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

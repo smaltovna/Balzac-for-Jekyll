@@ -1,7 +1,8 @@
 ---
 layout: post
 permalink: /contact/index.html
-title: Contact
+title: Kontakt
+lang: sk
 image:
   feature: pyconsk2017back.jpg
 ---

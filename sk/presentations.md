@@ -1,7 +1,8 @@
 ---
 layout: post
 permalink: /presentations/index.html
-title: Talks and Presentations
+title: Prednášky
+lang: sk
 image:
   feature: pyconsk2017back.jpg
 ---

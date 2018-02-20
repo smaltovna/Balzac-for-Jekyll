@@ -1,7 +1,8 @@
 ---
 layout: post
 permalink: /workshops/index.html
-title: Workshops
+title: Workshopy
+lang: sk
 image:
   feature: pyconsk2017back.jpg
 ---

@@ -65,10 +65,14 @@
             </li>
             
             
-            <p>{{ page.lang }}</p>
-            {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %}
+            {% if page.lang ==  "sk" %}
+              {% for link in site.links_sk %}
+                  <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for link in site.links_en %}
+                  <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+              {% endfor %}
 
           </ul>
         </nav>
