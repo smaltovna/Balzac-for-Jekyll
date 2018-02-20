@@ -60,11 +60,7 @@
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
-            <li>
-              <a href="/" title="{{ site.title }}">ABOUT ME</a>
-            </li>
-            
-            
+                      
             {% if page.lang ==  "sk" %}
               {% for link in site.links_sk %}
                   <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>

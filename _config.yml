@@ -25,6 +25,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links_sk:
+  - title: O mne
+    url: /sk
   - title: Kontakt
     url: /sk/contact
   - title: Workshopy
@@ -37,6 +39,8 @@ links_sk:
     url: /en
 
 links_en:
+  - title: About Me
+    url: /en
   - title: CONTACT
     url: /en/contact
   - title: Workshops
