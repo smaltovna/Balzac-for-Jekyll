@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /contact/index.html
+permalink: en/contact/index.html
 title: Contact
 lang: en
 image:

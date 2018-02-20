@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /presentations/index.html
+permalink: en/presentations/index.html
 title: Presentations
 lang: en
 image:

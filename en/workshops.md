@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /workshops/index.html
+permalink: en/workshops/index.html
 title: Workshops
 lang: en
 image:
