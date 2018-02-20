@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /sk/seminare/index.html
-title: Semináre
+permalink: /sk/workshopy/index.html
+title: Workshopy
 lang: sk
 image:
   feature: pyconsk2017back.jpg
