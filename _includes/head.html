@@ -65,11 +65,14 @@
               {% for link in site.links_sk %}
                   <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
               {% endfor %}
+              <li><a href="{{ site.url }}/en"><img src="{{ site.url }}/images/en_flag.png"></a></li>
             {% else %}
               {% for link in site.links_en %}
                   <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
               {% endfor %}
+              <li><a href="{{ site.url }}/sk"><img src="{{ site.url }}/images/sk_flag.png"></a></li>
             {% endif %}
+
 
           </ul>
         </nav>
