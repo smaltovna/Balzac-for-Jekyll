@@ -32,4 +32,4 @@ Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito tech
 * [Facebook](http://facebook.com/marekmansell)
 * [Twitter](http://twitter.com/marekmansell)
 * Mail: marek.mansell@gmail.com
-* Telefon: +421 904 010 424
+* Telefón: +421 904 010 424
