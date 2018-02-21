@@ -26,7 +26,6 @@ Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito tech
 *   [StaráSmaltov&#x0148; a.sk](#) (Zakladajúci člen)
 
 
-
 #### Kontakt
 
 * [LinkedIn](https://www.linkedin.com/in/marekmansell)
