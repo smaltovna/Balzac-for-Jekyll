@@ -35,8 +35,6 @@ links_sk:
     url: /sk/prezentacie
   - title: Blog
     url: /sk/blog
-  - title: EN
-    url: /en
 
 links_en:
   - title: About Me
@@ -49,8 +47,6 @@ links_en:
     url: /en/presentations
   - title: blog
     url: /en/blog
-  - title: SK
-    url: /sk
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
