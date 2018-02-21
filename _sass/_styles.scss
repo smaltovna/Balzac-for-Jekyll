@@ -494,6 +494,7 @@ header.site-header nav {
         display: block;
         margin: $lh auto;
         @include br(4px);
+        max-width: 100%;
     }
     
         table {
