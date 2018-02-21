@@ -23,7 +23,7 @@ Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito tech
 
 *   [MicroPython.sk](http://micropython.sk/) - Portál obsahujúci návody na MicroPython, NodeMCU a micro:bit
 *   Kávovar (Resco MADHack hackhaton) - IoT projekt s cieľom automatizovať prípravu rannej kávy či čaju
-*   [StaráSmaltov&#x0148; a.sk](#) (Zakladajúci člen)
+*   [StaráSmaltov&#x0148;a.sk](#) (Zakladajúci člen)
 
 
 #### Kontakt
