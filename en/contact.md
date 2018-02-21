@@ -7,10 +7,9 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-
+#### How to get in touch:
 * [LinkedIn](https://www.linkedin.com/in/marekmansell)
 * [Facebook](http://facebook.com/marekmansell)
 * [Twitter](http://twitter.com/marekmansell)
-
-
-__Mail: marek.mansell@gmail.com__
+* Mail: marek.mansell@gmail.com
+* Mobile: +421 904 010 424
