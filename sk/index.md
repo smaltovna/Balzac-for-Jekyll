@@ -14,14 +14,12 @@ Som zanieteným informatikom, dobrovoľníkom a experimentátorom :-) Študujem 
 
 Združenie SPy sa usiluje o popularizáciu programovacieho jazyka Python pomocou organizácie konferencií PyCon a pravidelných Python meetupov v Bratislave. Taktiež sa venuje vzdelávacím projektom a zlepšovaniu výučby informatiky na základných a stredných školách. Vrámci združenia SPy som spoluorganizoval konferencie PyCon v rokoch 2016 až 2018.
 
+Viac o SPy a PyConSK sa dozvieš z tohto Lightning Talku :-) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Hardvér a Elektronika
 
 Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito technológiami: návrh a výroba vnorených systémov - výber súčiastok, návrh DPS (Eagle), osádzanie a testovanie DPS, 3D návrh plastových obalov (CAD softvér), 3D tlač, programovanie mikroprocesorov
-
-#### Prezentovanie
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 #### Projekty
 
