@@ -3,6 +3,7 @@ layout: post
 title: Test Post
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
 categories: sk/blog
+permalink: /sk/blog/vinohrady
 lang: sk
 date: 2013-08-17
 image: 
