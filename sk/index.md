@@ -18,6 +18,10 @@ Združenie SPy sa usiluje o popularizáciu programovacieho jazyka Python pomocou
 
 Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito technológiami: návrh a výroba vnorených systémov - výber súčiastok, návrh DPS (Eagle), osádzanie a testovanie DPS, 3D návrh plastových obalov (CAD softvér), 3D tlač, programovanie mikroprocesorov
 
+#### Prezentovanie
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 #### Projekty
 
