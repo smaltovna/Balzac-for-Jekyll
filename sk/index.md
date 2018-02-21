@@ -8,42 +8,29 @@ image:
 
 ![Profile Image](/images/profile_small.png)
 
-### About me SK
+Som zanieteným informatikom, dobrovoľníkom a experimentátorom :-) Študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria Leadership Academy a som podpredsedom občianskeho združenia SPy, ktoré organizuje konferenciu PyCon ako aj workshopy pre nadšencov programovacieho jazyka Python a pre učiteľov informatiky. Pôsobím ako lektor pre výuku hardvéru a zaoberám sa tvorbou online materiálov pre túto problematiku. Profesionálne sa venujem vývoju hardvérových prototypov. Vo voľnom čase sa taktiež venujem mentorovaniu stredoškolákov pri tvorbe ich vlastných softvérových alebo hardvérových projektov.
 
-I am an active member of the Slovak Python community since 2015. As SPy o.z. Vice-Chairman, I have co-organized PyCon SK 2016 and PyCon SK 2017.
+#### SPy o.z. a PyCon Slovensko
 
-I work as an electronics technician, designing and prototyping custom embedded products - part selection, microprocessor selection, PCB design (Eagle), PCB assembly, SMD soldering, testing, case design (in CAD software), case manufacturing (3D printing and CNC milling), embedded software programming
+Združenie SPy sa usiluje o popularizáciu programovacieho jazyka Python pomocou organizácie konferencií PyCon a pravidelných Python meetupov v Bratislave. Taktiež sa venuje vzdelávacím projektom a zlepšovaniu výučby informatiky na základných a stredných školách. Vrámci združenia SPy som spoluorganizoval konferencie PyCon v rokoch 2016 až 2018.
 
-I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
+#### Hardvér a Elektronika
 
-More info can be found on [LinkedIn](http://linkedin.com/in/marekmansell)
-
-### Talks and Presentations
-
-More info about hardware workshops [here](http://marekmansell.sk/workshops)
+Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito technológiami: návrh a výroba vnorených systémov - výber súčiastok, návrh DPS (Eagle), osádzanie a testovanie DPS, 3D návrh plastových obalov (CAD softvér), 3D tlač, programovanie mikroprocesorov
 
 
-### Workshops
+#### Projekty
 
-More info about hardware workshops [here](http://marekmansell.sk/workshops)
-
-
-### Projects
-
-*   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
-*   [MicoPython Editor](http://micropython.sk/editor) - An IDE for developing in MicroPython, suitable for kids (Blockly feature) and beginners
-*   Kávovar (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
-*   [StaráSmaltov&#x0148; a.sk](#) (Co-founder) ňň
+*   [MicroPython.sk](http://micropython.sk/) - Portál obsahujúci návody na MicroPython, NodeMCU a micro:bit
+*   Kávovar (Resco MADHack hackhaton) - IoT projekt s cieľom automatizovať prípravu rannej kávy či čaju
+*   [StaráSmaltov&#x0148; a.sk](#) (Zakladajúci člen)
 
 
 
-### Contact
+#### Kontakt
 
 * [LinkedIn](https://www.linkedin.com/in/marekmansell)
 * [Facebook](http://facebook.com/marekmansell)
 * [Twitter](http://twitter.com/marekmansell)
-
-
-```
-Mail: marek.mansell@gmail.com
-```
+* Mail: marek.mansell@gmail.com
+* Telefon: +421 904 010 424
