@@ -4,7 +4,7 @@ title: Test Post
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
 categories: sk/blog
 permalink: /sk/blog/vinohrady
-lang: sk
+lang: skk
 date: 2013-08-17
 image: 
   feature: pyconsk2017back.jpg
