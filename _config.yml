@@ -1,0 +1,82 @@
+title:            marekmansell.sk
+tagline:          Marek Mansell
+description:      Personal Website
+canonical:        http://marekmansell.sk
+
+# Owner/author information
+owner:
+  name:           Marek Mansell
+  avatar:         avatar.png
+  bio:            "Hardware Enthusiast"
+  email:          marek.mansell@gmail.com
+  twitter:        marekmansell
+  facebook:       marekmansell
+  github:         marekmansell
+  location:       "Bratislava, Slovakia"
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links_sk:
+  - title: O mne
+    url: /sk
+  - title: Kontakt
+    url: /sk/kontakt
+  - title: Workshopy
+    url: /sk/workshopy
+  - title: Prezentácie
+    url: /sk/prezentacie
+  - title: Blog
+    url: /sk/blog
+
+links_en:
+  - title: About Me
+    url: /en
+  - title: CONTACT
+    url: /en/contact
+  - title: Workshops
+    url: /en/workshops
+  - title: Presentations
+    url: /en/presentations
+  - title: blog
+    url: /en/blog
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+gems:
+  - jekyll-redirect-from
